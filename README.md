@@ -26,12 +26,7 @@ Python 3.7+
 Windows/Linux/macOS
 
 ### 安装依赖
-```javascript
-bash
 
-pip install -r requirements.txt
-```
-或者手动安装：
 ```javascript
 bash
 
